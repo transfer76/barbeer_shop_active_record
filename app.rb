@@ -14,5 +14,5 @@ end
 
 
 get '/' do
-	erb "Hello!"			
+	erb :index			
 end
